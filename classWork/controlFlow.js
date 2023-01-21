@@ -1,6 +1,15 @@
 // Write a program that allow only user below 18 years in our website
 // Tip: create a Global variable call accessAllowed
 // Create a variable that holds the user's age
+let passEntry;
+
+let age = prompt('Enter your age?')
+
+if(age < 18){
+    passEntry = "Allow Access"
+}else {
+    passEntry = "Access Denied"
+}
 
 // Soltn
 //  let accessAllowed;
