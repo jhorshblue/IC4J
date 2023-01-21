@@ -11,6 +11,8 @@ if(age < 18){
     passEntry = "Access Denied"
 }
 
+
+
 // Soltn
 //  let accessAllowed;
 
@@ -23,7 +25,7 @@ if(age < 18){
 //  }
 // let varName = condition ? true : false
 // let accessAllowed = age < 18 ? true : false
-// let accessAllowed = age < 18 ? alert("Access Granted") : alert("Access Not Granted")"Access Not Granted"
+// let accessAllowed = age < 18 ? alert("Access Granted") : alert("Access Not Granted")
 
 //  alert(accessAllowed)
 
